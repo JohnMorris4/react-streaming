@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# hide google api info
+
+
 # testing
 /coverage
 
